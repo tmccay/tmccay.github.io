@@ -4,7 +4,10 @@ I am an ecologist at a primarily undergraduate university, [Colgate University](
 
 I am associated with the BEFA (Beaver Ecology for All) project.
 
-![Beavers](https://animaldiversity.org/collections/contributors/tanya_dewey/beaver1/large.jpg "Castor canadensis")
+<img 
+  src="https://animaldiversity.org/collections/contributors/tanya_dewey/beaver1/large.jpg"
+  alt="Beaver" 
+  width="25%">
 
 Photo by Tanya Dewey. License: Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License. 
 
